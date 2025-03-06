@@ -2,3 +2,10 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+
+    #my-header {
+      background-color: rgb(255, 165, 0);
+      color: hsl(147, 69%, 33%);
+      padding: 40px;
+      text-align: center;
+    }
